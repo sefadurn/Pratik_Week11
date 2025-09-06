@@ -1,0 +1,6 @@
+@Pratik_Week11_HostAddress = http://localhost:5009
+
+GET {{Pratik_Week11_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
